@@ -37,7 +37,6 @@ async def handle_new_message(event):
         print(event.message.message)
         ids = event.message.from_id
         user = await event.client.get_entity(ids)
-        print(user.first_name)
         if user.first_name == "DataSaham2Bot":
             print("Bot Detected")
             # forward message contain picture to group
