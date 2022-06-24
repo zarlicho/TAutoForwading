@@ -1,1 +1,1 @@
-worker: python autoForwading.py
+worker: python main.py
