@@ -24,7 +24,7 @@ bot = []
 channel = "1623988554"
 # get all channels
 channel_username = 'DataSaham2Bot'# your channel
-groupUsername = "Python group.py"# your group
+groupUsername = "JOSS ALERT"# your group
 
 # message = []
 # for message in client.get_messages(channel_username, limit=1):
