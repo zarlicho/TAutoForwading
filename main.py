@@ -6,8 +6,8 @@ from telethon import TelegramClient, events
 from telethon import TelegramClient, events, sync
 import csv
 import time
-api_id = '19375432'
-api_hash = 'd8d30e25ef10976279733d89d601f9e4'
+api_id = '8977367'
+api_hash = 'd9a8cbdd0ba21647bee37edbfe322cec'
 phone = '+62085233025941'
 client = TelegramClient(phone, api_id, api_hash)
 
